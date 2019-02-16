@@ -1,0 +1,19 @@
+{
+  "name": "doitalljs",
+  "version": "1.0.0",
+  "description": "The library that does it all.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThisIsNoZaku/doitalljs.git"
+  },
+  "author": "damienmarble@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ThisIsNoZaku/doitalljs/issues"
+  },
+  "homepage": "https://github.com/ThisIsNoZaku/doitalljs#readme"
+}
